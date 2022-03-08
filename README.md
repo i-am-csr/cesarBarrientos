@@ -6,7 +6,7 @@ I was born and raised in Mexico 🇲🇽 then I moved to Poland 🇵🇱.
 
 I work at <a href="https://www.cisco.com"><img src="https://img.shields.io/badge/Cisco-gray?style=plastic&logo=cisco"></a>, was part of TAC NGFW team for 5 years, now I am a Security Consulting Engineer. 
 
-I like networking and security (firewalls), ofc, my specially is Cisco Secure Firewall (a.k.a FTD) 💻 
+I like networking and security (firewalls), ofc, my speciallity is Cisco Secure Firewall (a.k.a FTD) 💻 
 
 I like to use development skills to automate tasks in networking and now using APIs to make jobs faster. ⏩
 
