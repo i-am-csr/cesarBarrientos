@@ -12,8 +12,8 @@ I do not usually post my code here as most of what I write is Cisco proprietary,
 Now I am starting to do that as I am sharing this tools with the customers, and most likely you will see that in Cisco Code Exchange (DevNet)
 
 ### 🏆 Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1c375ed5-3d7a-40a2-bca3-57c5ceb41f47" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6dbf8d9d-eecc-4653-b896-2305329cd77d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/1c375ed5-3d7a-40a2-bca3-57c5ceb41f47/public_url"><img alt="Cisco DevNet Associate" src="https://img.shields.io/badge/Cisco%20DevNet%20-%20Professional-05122A?style=for-the-badge&logo=cisco"/></a>
+
 Internetworking Expert (CCIE) Security #63710
 
 ### Languages, Markups, Styling
